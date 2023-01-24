@@ -1,7 +1,7 @@
 Template Name: Append
-Template Author: Untree.co
+Template Author: ....co
 Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+Author URI: /
 
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
+Twitter: https://twitter.com/..._co
+Facebook: https://web.facebook.com/....co/
